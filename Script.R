@@ -1,5 +1,3 @@
-setwd('/Users/Ariel/Documents/School/Year 2/Spring/ECON 20900/Final Project')
-
 # Load paired county data
 pairsdata <- read.csv('County Pairs.csv')
 
